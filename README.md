@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GamerCoder215
+- 👀 I’m interested in making node modules, discord bots and minecraft plugins.
+- 🌱 I’m currently learning Java, C++, HTML/CSS, and more JS
+- 💞️ I’m looking to collaborate on any Discord Bots or Node Modules
+- 📫 DM Me in Discord at GamerCoder215#2640 or email me at gamercoder215@gmail.com
