@@ -1,12 +1,16 @@
-### FullStack Developer
+# FullStack Developer
+Hello!
 
-Languages (In Knowledge Order, from Best to Least):
-- JavaScript/NodeJS, HTML/XML
+Discord: GamerCoder#4916
+
+Fluent In:
+- JS/HTML/CSS
 - Java
-- C++ / C
+- Kotlin
+- Bash/Batch
+- XML
+- C/C++
 
-Currently learning Kotlin and Go.
-
-Discord: GamerCoder215#4916
+Currently learning Go.
 
 Email Me: gamercoder215@teaminceptus.us
