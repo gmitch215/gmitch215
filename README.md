@@ -1,5 +1,5 @@
 # FullStack Developer
-> FullStack JVM & Game Developer since 2019
+> FullStack, JVM & Game Developer since 2019<br>
 
 [![wakatime](https://wakatime.com/badge/user/7e070bcb-e8c0-46e0-bb61-c8f30217e8ba.svg)](https://wakatime.com/@7e070bcb-e8c0-46e0-bb61-c8f30217e8ba)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC89eYvGD3j_FmT-ymf18MBA?style=flat)](https://youtube.com/@gamercoder)
@@ -9,7 +9,8 @@
 ![My Languages](https://skillicons.dev/icons?i=java,kotlin,nodejs,js,c,cpp,py)
 
 ![My Skills](https://skillicons.dev/icons?i=github,git,idea,eclipse,vscode,gradle,maven,blender,premiere,photoshop)
-
-![Coding Stats](https://github-readme-stats.vercel.app/api?username=gamercoder215&show_icons=true&theme=dark)
-
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=GamerCoder215)](https://leetcode.com/GamerCoder215/)
+<div style="display: flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=gamercoder215&show_icons=true&theme=dark" alt="Coding Stats" title="Coding Stats" style="width: 44%; height: auto;">
+&nbsp;
+<a href="https://leetcode.com/GamerCoder215/"><img src="https://leetcode-stats-six.vercel.app/?username=GamerCoder215" alt="LeetCode Stats" title="LeetCode Stats" style="width: 40%; height: auto;"></a>
+</div>
