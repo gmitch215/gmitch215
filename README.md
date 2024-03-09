@@ -8,7 +8,7 @@
 
 ![My Languages](https://skillicons.dev/icons?i=java,kotlin,nodejs,js,c,cpp,py)
 
-![My Skills](https://skillicons.dev/icons?i=github,git,idea,eclipse,vscode,gradle,maven,blender,premiere,photoshop)
+![My Skills](https://skillicons.dev/icons?i=github,git,idea,clion,eclipse,vscode,gradle,maven,blender,premiere,photoshop)
 <div style="display: flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=gamercoder215&show_icons=true&theme=dark" alt="Coding Stats" title="Coding Stats" style="width: 44%; height: auto;">
 &nbsp;
