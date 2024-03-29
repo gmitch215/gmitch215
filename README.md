@@ -12,5 +12,5 @@
 <div style="display: flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=gmitch215&show_icons=true&theme=dark" alt="Coding Stats" title="Coding Stats" style="width: 44%; height: auto;">
 &nbsp;
-<a href="https://leetcode.com/GamerCoder215/"><img src="https://leetcode-stats-six.vercel.app/?username=GamerCoder215" alt="LeetCode Stats" title="LeetCode Stats" style="width: 40%; height: auto;"></a>
+<a href="https://leetcode.com/gmitch215/"><img src="https://leetcode-stats-six.vercel.app/?username=gmitch215" alt="LeetCode Stats" title="LeetCode Stats" style="width: 40%; height: auto;"></a>
 </div>
