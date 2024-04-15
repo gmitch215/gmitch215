@@ -9,7 +9,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=github,git,idea,clion,webstorm,vscode,gradle,npm,maven,blender,premiere,photoshop)
 
-- [@TeamInceptus](https://github.com/TeamInceptus) Owner *2020-2024*<br>
+- [@Team-Inceptus](https://github.com/Team-Inceptus) Owner *2020-2024*<br>
 - [@CalculusGames](https://github.com/CalculusGames) Owner *2024-Present*
 
 <div style="display: flex;">
