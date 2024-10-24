@@ -12,9 +12,12 @@
 - [@Team-Inceptus](https://github.com/Team-Inceptus) Owner *2020-2024*<br>
 - [@CalculusGames](https://github.com/CalculusGames) Owner *2024-Present*
 
-<div style="display: flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=gmitch215&show_icons=true&theme=dark" alt="Coding Stats" title="Coding Stats" style="width: 44%; height: auto;">
-&nbsp;
-<a href="https://leetcode.com/gmitch215/"><img src="https://leetcard.jacoblin.cool/gmitch215" alt="LeetCode Stats" title="LeetCode Stats" style="width: 46%; height: auto;"></a>
+<div style="display: flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=gmitch215&show_icons=true&theme=dark" alt="Coding Stats" title="Coding Stats" style="width: 44%; height: auto;">
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmitch215&theme=dark" alt="Coding Streak" title="Coding Streak" style="width: 46%; height: auto;">
+</div>
+<div style="display: flex">
+  <a href="https://leetcode.com/gmitch215/"><img src="https://leetcard.jacoblin.cool/gmitch215" alt="LeetCode Stats" title="LeetCode Stats" style="width: 44%; height: auto;"></a>
 </div>
 
