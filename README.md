@@ -7,7 +7,7 @@
 
 ![My Languages](https://skillicons.dev/icons?i=kotlin,java,cpp,c,nodejs,js,html,css,py)
 
-![My Skills](https://skillicons.dev/icons?i=github,git,idea,clion,webstorm,vscode,gradle,npm,bun,yarn,maven,blender,premiere,photoshop)
+![My Skills](https://skillicons.dev/icons?i=github,git,idea,clion,webstorm,vscode,gradle,npm,bun,yarn,maven,blender,photoshop)
 
 - [@Team-Inceptus](https://github.com/Team-Inceptus) Owner *2020-2024*<br>
 - [@CalculusGames](https://github.com/CalculusGames) Owner *2024-Present*
