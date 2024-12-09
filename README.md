@@ -20,6 +20,9 @@
 <div style="display: flex; justify-content: center;">
   <a href="https://leetcode.com/gmitch215/"><img src="https://leetcard.jacoblin.cool/gmitch215" alt="LeetCode Stats" title="LeetCode Stats" style="width: 44%; height: auto;"></a>
 </div>
+
+<hr>
+
 <div style="display: flex; justify-content: center;">
     <a href="https://store.steampowered.com/community/id/gmitch215"><img src="https://steam-stat.vercel.app/api?profileName=gmitch215" alt="Steam Stats" title="Steam Stats" style="width: 44%; height; auto;"></a>
 </div>
