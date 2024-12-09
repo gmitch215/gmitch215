@@ -17,7 +17,10 @@
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmitch215&theme=dark" alt="Coding Streak" title="Coding Streak" style="width: 46%; height: auto;">
 </div>
-<div style="display: flex">
+<div style="display: flex; justify-content: center;">
   <a href="https://leetcode.com/gmitch215/"><img src="https://leetcard.jacoblin.cool/gmitch215" alt="LeetCode Stats" title="LeetCode Stats" style="width: 44%; height: auto;"></a>
+</div>
+<div style="display: flex; justify-content: center;">
+    <a href="https://store.steampowered.com/community/id/gmitch215"><img src="https://steam-stat.vercel.app/api?profileName=gmitch215" alt="Steam Stats" title="Steam Stats" style="width: 44%; height; auto;"></a>
 </div>
 
