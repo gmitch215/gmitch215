@@ -13,12 +13,13 @@
 - [@CalculusGames](https://github.com/CalculusGames) Owner *2024-Present*
 
 <div style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmitch215&show_icons=true&theme=dark" alt="Coding Stats" title="Coding Stats" style="width: 44%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gmitch215&show_icons=true&theme=dark" alt="Coding Stats" title="Coding Stats" style="width: 45%; height: auto;">
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmitch215&theme=dark" alt="Coding Streak" title="Coding Streak" style="width: 46%; height: auto;">
+  <img src="https://stats.gmitch215.dev?user=gmitch215&theme=dark" alt="Coding Streak" title="Coding Streak" style="width: 48%; height: auto;">
 </div>
 <div style="display: flex; justify-content: center;">
-  <a href="https://leetcode.com/gmitch215/"><img src="https://leetcard.jacoblin.cool/gmitch215" alt="LeetCode Stats" title="LeetCode Stats" style="width: 44%; height: auto;"></a>
+  <a href="https://leetcode.com/gmitch215/"><img src="https://leetcard.jacoblin.cool/gmitch215" alt="LeetCode Stats" title="LeetCode Stats" style="width: 45%; height: auto;"></a>
+</a>
 </div>
 
 <hr>
