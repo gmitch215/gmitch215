@@ -11,6 +11,7 @@
 
 - [@Team-Inceptus](https://github.com/Team-Inceptus) Owner *2020-2024*<br>
 - [@CalculusGames](https://github.com/CalculusGames) Owner *2024-Present*
+- [@earth-app](https://github.com/earth-app) Owner *2025-Present*
 
 <div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api?username=gmitch215&show_icons=true&theme=dark&rank_icon=percentile&include_all_commits=true" alt="Coding Stats" title="Coding Stats" style="width: 45%; height: auto;">
