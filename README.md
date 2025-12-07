@@ -18,10 +18,10 @@
   &nbsp;
   <img src="https://stats.gmitch215.dev?user=gmitch215&theme=dark" alt="Coding Streak" title="Coding Streak" style="width: 48%; height: auto;">
 </div>
-<div style="display: flex;">
+<div style="display: flex">
   <a href="https://leetcode.com/gmitch215/"><img src="https://leetcard.jacoblin.cool/gmitch215" alt="LeetCode Stats" title="LeetCode Stats" style="width: 45%"></a>
   <span>&nbsp;</span>
-  <img src="https://stats2.gmitch215.dev/api/top-langs?username=gmitch215&theme=dark&layout=compact" style="width: 33%">
+  <img src="https://stats2.gmitch215.dev/api/top-langs?username=gmitch215&theme=dark&layout=compact&card_width=488">
 </a>
 </div>
 
