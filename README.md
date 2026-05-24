@@ -11,7 +11,7 @@
 ![My Skills](https://skillicons.dev/icons?i=github,git,idea,clion,webstorm,vscode,gradle,npm,bun,yarn,maven,blender,photoshop)
 
 - [@Team-Inceptus](https://github.com/Team-Inceptus) Owner *2020-2024*<br>
-- [@CalculusGames](https://github.com/CalculusGames) Owner *2024-Present*
+- [@CalculusGames](https://github.com/CalculusGames) Owner *2024-2025*
 - [@earth-app](https://github.com/earth-app) Owner *2025-Present*
 
 <div style="display: flex">
