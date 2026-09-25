@@ -13,6 +13,7 @@
 - [@Team-Inceptus](https://github.com/Team-Inceptus) Owner *2020-2024*<br>
 - [@CalculusGames](https://github.com/CalculusGames) Owner *2024-2025*
 - [@earth-app](https://github.com/earth-app) Owner *2025-Present*
+- [@drupflare](https://github.com/drupflare) Founder *2026-Present*
 
 <div style="display: flex">
   <img src="https://stats2.gmitch215.dev/api?username=gmitch215&show_icons=true&theme=dark&rank_icon=percentile&include_all_commits=true" alt="Coding Stats" title="Coding Stats" style="width: 45%; height: auto;">
@@ -27,8 +28,4 @@
 </div>
 
 <hr>
-
-<div style="display: flex; justify-content: center;">
-    <a href="https://store.steampowered.com/community/id/gmitch215"><img src="https://steam-stat.vercel.app/api?profileName=gmitch215" alt="Steam Stats" title="Steam Stats" style="width: 44%; height; auto;"></a>
-</div>
 
